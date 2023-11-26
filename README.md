@@ -14,6 +14,11 @@ Este é um simples aplicativo de chat em C# usando sockets TCP.
 
 ## Como usar
 
+### Criar um Projeto 
+1. Crie uma pasta chamada (`Chat`) dentro crie pastas chamadas (`Servidor`) e (`Cliente`) 
+2. Dentro de (`Servidor`) e (`Cliente`) execute o comando (`dotnet new console`)
+3. Dentro de cada uma troque o (`Program.cs`) pelos meus disponibilizados e coloque os aquivos (`Servidor.cs`) e (`Cliente.cs`) dentro das pastas de cada um.
+   
 ### Servidor
 
 1. Abra o terminal e navegue até o diretório do servidor (`Servidor`).
